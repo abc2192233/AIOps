@@ -25,6 +25,8 @@ AIOps的建设可以有无到局部的单点探索，在单点探索上得到初
 注：学件，也称AI运维组件（南京大学周志华老师原创），类似程序中的API或公共库，但API及公共库不含具体业务数据，只是某种算法，而AI运维组件（或称学件），则是类似API的基础上，兼具对某个运维场景智能化解决“记忆”能力，能将出，。里这个场景的只能规则保存在这个组件中，学件（Learnware) = 模型（Model） + 规约（Specification）。
 AIOps具体能力框架如下：
 
-![image](image/AIOps能力框架图.png)
+<div align=center>
+
+![image](image/AIOps能力框架图.png)</div>
 <p align="center">AIOps能力框架图</p>
 
